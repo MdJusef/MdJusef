@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjusef&label=Profile%20views&color=0e75b6&style=flat" alt="mdjusef" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjusef" alt="mdjusef" /></a> </p>
-
 - 🔭 I’m currently working on [Multivendor Project (salon)](https://github.com/bdCalling-Sdt-hub/salon)
 
 - 🌱 I’m currently learning **Vue Js**
@@ -13,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.jusef.me](https://www.jusef.me)
 
-- 💬 Ask me about **PHP,Laravel,C++,Python**
+- 💬 Ask me about **PHP, Laravel, C++, Python**
 
 - 📫 How to reach me **mdjusef143@gmail.com**
 
