@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Multivendor Project (salon)](https://github.com/bdCalling-Sdt-hub/salon)
 
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 Everyday I'm Learning
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdJusef](https://github.com/MdJusef)
 
